@@ -13,7 +13,7 @@ This is an interactive image
 </head>
 <body>
     <h1>My Plotly Chart</h1>
-    <iframe src="interactive_Rates.html" width="800" height="600" style="border:none;"></iframe>
+    <iframe src="interactive_rates.html" width="800" height="600" style="border:none;"></iframe>
 </body>
 </html>
 
