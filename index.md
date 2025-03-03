@@ -3,7 +3,8 @@ title: This is a blog
 ---
 
 This is an interactive image
-
+<iframe src="interactive_rates.html" width="800" height="600" style="border:none;"></iframe>
+    
 <!DOCTYPE html>
 <html lang="en">
 <head>
